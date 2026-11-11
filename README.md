@@ -1,2 +1,2 @@
-# Dataricks_integration
+# Databricks_integration
 Hello world
